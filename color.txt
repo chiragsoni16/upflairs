@@ -1,0 +1,8 @@
+rgb
+cmyk
+hsv
+
+types
+-greyscale
+-truecolor
+-binary
